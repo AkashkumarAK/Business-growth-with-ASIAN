@@ -1,0 +1,21 @@
+
+  h1 {
+  
+    margin-bottom: 4rem;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    
+  }
+  .brand-name{
+    color: rgb(14, 144, 122);
+  }
+  .my-3{
+    text-decoration: wavy;
+    font-size: 1.5rem;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  .img-fuid{
+   
+    padding: 0 0 16rem 4rem;
+  }
